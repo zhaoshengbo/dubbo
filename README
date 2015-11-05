@@ -58,7 +58,7 @@ Source Building
 
     cd ~/dubbo
     mvn eclipse:eclipse
-    Eclipse -> Menu -> File -> Import -> Exsiting Projects to Workspace -> Browse -> Finish
+    Eclipse -> Menu -> File -> Import -> Exsiting Maven Projects -> Browse -> Finish
 
     Context Menu -> Run As -> Java Application:
     dubbo-demo-provider/src/test/java/com.alibaba.dubbo.demo.provider.DemoProvider
